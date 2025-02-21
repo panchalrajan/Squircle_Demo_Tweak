@@ -1,0 +1,15 @@
+{
+  "originHash" : "f5c3e89f9e72ed01ad8027efadd6290ebd4913167208d0ef96ec0d934781b18e",
+  "pins" : [
+    {
+      "identity" : "squircle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/panchalrajan/Squircle.git",
+      "state" : {
+        "revision" : "c03a114205a828513aa63cbc9ecb92cce7648209",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
